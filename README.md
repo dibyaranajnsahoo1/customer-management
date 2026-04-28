@@ -40,6 +40,7 @@ http://localhost:3000
 - Health check: `http://localhost:5000/health`
 - Customers API: `http://localhost:5000/customers`
 
+
 ## What The App Does
 
 - Adds customers with name, email, and phone number
