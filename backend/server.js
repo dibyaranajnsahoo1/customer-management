@@ -113,4 +113,5 @@ app.listen(PORT, () => {
   console.log('GET    /customers');
   console.log('POST   /customers');
   console.log('DELETE /customers/:id');
+  console.log('GET    /health');
 });

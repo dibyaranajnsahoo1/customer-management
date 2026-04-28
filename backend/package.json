@@ -1,5 +1,5 @@
 {
-  "name": "customer-management-backend",
+  "name": "Customer-management-backend",
   "version": "1.0.0",
   "description": "Customer Management Dashboard API",
   "main": "server.js",
